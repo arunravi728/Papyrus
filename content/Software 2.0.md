@@ -16,7 +16,7 @@ Self Link: [Software 2.0](Software%202.0.md)
 1. Specify some goal on the behavior of a desirable program.
 1. Write skeleton code that identifies a subset of program space to search (neural nets).
 1. For neural networks, we restrict the search to a continuous subset of the program space. 
-   * The search process can be made efficient with backpropagation and stochastic gradient descent.
+   * The search process is carried out with backpropagation and stochastic gradient descent.
 
 ##### Components of Software 2.0
 
