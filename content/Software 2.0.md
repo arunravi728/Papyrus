@@ -1,7 +1,7 @@
 ---
 title: Software 2.0
 created: Thursday - 15th February, 2024
-updated: Thursday - 15th February, 2024
+updated: Monday - 27th May, 2024
 consumed: 1
 share: true
 ---
