@@ -9,3 +9,4 @@ Self Link: [Cooking](Cooking.md)
 
 1. [Creamy Garlic Chicken Breasts](./Creamy%20Garlic%20Chicken%20Breasts.md)
 1. [Mashed Potatoes](./Mashed%20Potatoes.md)
+1. [Vegetable Pulao](./Vegetable%20Pulao.md)

@@ -4,7 +4,7 @@ title: The Little Book of Common Sense Investing
 author: John C. Bogle
 status: Reading
 created: Monday - 29th April, 2024
-updated: Thursday - 2nd May, 2024
+updated: Monday - 3rd June, 2024
 finished: null
 category: Non Fiction
 genre: Personal Finance
@@ -38,3 +38,8 @@ Self Link: [The Little Book of Common Sense Investing](The%20Little%20Book%20of%
 * The costs of financial intermediation are very high. Make sure your costs are very low.
 * Over the long term, compounding returns are overwhelmed by compounding costs.
 * Investment return = Return - Tax - Investment Costs - Inflation ----> Minimize your costs.
+
+ > 
+ > The winning formula for success in investing is owning the entire stock market through an index fund, and then doing nothing. Just stay the course.
+
+Warren Buffet's four E's of investing - *The greatest Enemies of the Equity investor are Expenses and Emotions*.

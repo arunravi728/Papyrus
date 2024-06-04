@@ -11,7 +11,7 @@ Self Link: [Computer Systems Courses](Computer%20Systems%20Courses.md)
 1. Operating Systems
 1. Computer Networks
 1. Big Data Systems
-1. [Distributed Systems](Distributed%20Systems.md)
+1. [Distributed Systems](./Distributed%20Systems.md)
    1. [MIT OCW](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&feature=shared)
    1. [Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
 1. [ML Systems](ML%20Systems.md)

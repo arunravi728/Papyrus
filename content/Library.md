@@ -23,8 +23,8 @@ Self Link: [Library](Library.md)
 |[How to Take Smart Notes](./How%20to%20Take%20Smart%20Notes.md)|Sönke Ahrens|Note Taking|
 |[Getting Things Done](./Getting%20Things%20Done.md)|David Allen|-|
 |[Algorithms to Live By](./Algorithms%20to%20Live%20By.md)|Brian Christian, Griffiths|-|
-|[Guns Germs and Steel](./Guns%20Germs%20and%20Steel.md)|Jared Diamond|History|
 |[The Bullet Journal Method](./The%20Bullet%20Journal%20Method.md)|Ryder Carroll|Journaling|
+|[Guns Germs and Steel](./Guns%20Germs%20and%20Steel.md)|Jared Diamond|History|
 
 ##### Finished
 
