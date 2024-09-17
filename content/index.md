@@ -18,4 +18,3 @@ Feel free to explore Papyrus. Some starter landing pages you might be interested
 * [Productivity](./Productivity.md)
 * [Career](./Career.md)
 * [Cooking](./Cooking.md)
-* [Immigration](./Immigration.md)
