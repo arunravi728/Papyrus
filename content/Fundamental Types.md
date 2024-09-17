@@ -18,8 +18,7 @@ These are built in types that the C++ compiler implicitly understands. Some of t
 1. Void
 
  > 
- > \[!note\]
- > No variable can be of type `void`, it is primarily used to indicate a function returning nothing. `void *` can point to any variable, and needs to be casted to another type before being dereferenced.
+ > \[!note\] No variable can be of type `void`, it is primarily used to indicate a function returning nothing. `void *` can point to any variable, and needs to be casted to another type before being dereferenced.
 
 These fundamental types can further be modified using type specifiers. These set the size and the values allowed to be stored in these types.
 
@@ -29,5 +28,4 @@ These fundamental types can further be modified using type specifiers. These set
 1. `signed`
 
  > 
- > \[!note\]
- > Overflow behavior is well defined for `unsigned` integers (equivalent to the modulo operator or wrap around), but that's not the case for `signed` integers. Also, conversion from `unsigned` to `signed` integers is well defined. The reverse is true from C++20.
+ > \[!note\] Overflow behavior is well defined for `unsigned` integers (equivalent to the modulo operator or wrap around), but that's not the case for `signed` integers. Also, conversion from `unsigned` to `signed` integers is well defined. The reverse is true from C++20.
