@@ -28,7 +28,7 @@ Self Link: [Derived Types](Derived%20Types.md)
 * Series of statements grouped together.
 * Function's type = Return Type + {Type of Parameters}
 
-````clike
+````cpp
 int add(int a, int b);  // Funtion Type - int(int, int)
 
 // There is a difference in function types when they belong to a class.
@@ -41,7 +41,7 @@ class Divide{
 
 * Pointers to functions can be passed to other functions.
 
-````clike
+````cpp
 int multiply(int (*)(int, int));
 
 multiply(&add);

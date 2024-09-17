@@ -1,14 +1,15 @@
 ---
 title: First Rust Program
 created: Wednesday - 14th February, 2024
-updated: Wednesday - 14th February, 2024
+updated: Tuesday - 17th September, 2024
 consumed: 1
 share: true
 ---
 
 Self Link: [First Rust Program](First%20Rust%20Program.md)
 
-* Rust like C/C++ is an ahead-of-time compiled language.
+* Rust like C/C++ is an ahead-of-time statically compiled language.
+* The Rust compiler uses [LLVM](LLVM.md) on the backend.
 
 ##### Anatomy of a Rust Program
 
@@ -20,14 +21,20 @@ Self Link: [First Rust Program](First%20Rust%20Program.md)
 use std::io;
 use rand::Rng;
 
+// The fn keyword is used to spAecify a Rust function.
+//
 // The `main` function is special. It is similar to the C/C++ main function.
 // It is first piece of code that runs in every executable Rust program.
 fn main() {
 
 	// The `!` after println indicates a Rust macro and not a function.
+	// This is done because Rust functions do not take a variable number of
+	// function arguments. Thus, using a macro for printing circumvents that,
+	// as prints generally have variable number of arguments.
 	println!("Guess the number!");
 
 	// The `let` statement is used to create variables.
+	// Rust variables are statically typed.
 	let secret_number = rand::thread_rng().gen_range(1..=100);
 
 	loop {
