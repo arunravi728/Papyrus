@@ -32,5 +32,5 @@ Self Link: [Cargo](Cargo.md)
    * Note this would increase compile time.
 1. Run - `cargo run`
 1. Compilation check - `cargo check`
-1. Update crated - `cargo update`
+1. Update crate - `cargo update`
 1. Format code - `cargo fmt`

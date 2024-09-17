@@ -21,7 +21,7 @@ Self Link: [First Rust Program](First%20Rust%20Program.md)
 use std::io;
 use rand::Rng;
 
-// The fn keyword is used to spAecify a Rust function.
+// The fn keyword is used to specify a Rust function.
 //
 // The `main` function is special. It is similar to the C/C++ main function.
 // It is first piece of code that runs in every executable Rust program.
@@ -57,18 +57,17 @@ fn main() {
 	
 		// Here we employ shadowing. It allows us to reuse variable names.
 		// Used frequently when converting varaibles from one type to another.
+		// There is no implicit type conversion in Rust, and hence we use shadowing.
 		//
 		// The type specified after `:` tells the parse function what type to
 		// convert the string into. The `:` is used for time annotating types.
 		//
 		// Here we use a match instead of an expect.
 		// This helps us handle the error instead of crashing.
-		let guess: u32 = match guess
-            .trim()
-            .parse(){
-                Ok(num) => num,
-                Err(_) => continue,    // The `_` is a catch all value.
-            };
+		let guess: u32 = match guess.trim().parse() {
+			Ok(num) => num,
+			Err(_) => continue,    // _ is a catch all value
+		};
 	
 		// Here we comapre `guess` and `secret_number`.
 		// Returns a variant of the `Ordering` enum.

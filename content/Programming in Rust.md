@@ -25,5 +25,7 @@ This note contains the various Rust concepts I picked up when reading the book -
 
 List of topics to further explore - 
 
-1. [First Rust Program](./First%20Rust%20Program.md)
 1. [Cargo](./Cargo.md)
+1. [First Rust Program](./First%20Rust%20Program.md)
+1. [Common Programming Concepts](Common%20Programming%20Concepts.md)
+1. [Ownership](Ownership.md)
