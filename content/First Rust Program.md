@@ -19,6 +19,7 @@ Self Link: [First Rust Program](First%20Rust%20Program.md)
 //
 // Anything not in the prelude can be brought in through the `use` statement.
 use std::io;
+use std::cmp::Ordering;
 use rand::Rng;
 
 // The fn keyword is used to specify a Rust function.
