@@ -8,6 +8,7 @@ export interface ColorScheme {
   tertiary: string
   highlight: string
   blue: string
+  orange: string
 }
 
 interface Colors {
@@ -51,6 +52,7 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.lightMode.tertiary};
   --highlight: ${theme.colors.lightMode.highlight};
   --blue: ${theme.colors.lightMode.blue}
+  --orange: ${theme.colors.lightMode.orange}
 
   --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
   --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
@@ -67,6 +69,7 @@ ${stylesheet.join("\n\n")}
   --tertiary: ${theme.colors.darkMode.tertiary};
   --highlight: ${theme.colors.darkMode.highlight};
   --blue: ${theme.colors.darkMode.blue}
+  --orange: ${theme.colors.darkMode.orange}
 }
 `
 }

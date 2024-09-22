@@ -308,13 +308,19 @@ h2 {
 }
 
 h3 {
-  font-size: 1.12rem;
+  font-size: 1.25rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
   color: var(--blue);
 }
 
-h4,
+h4 {
+  font-size: 1.12rem;
+  margin-top: 1.62rem;
+  margin-bottom: 1rem;
+  color: var(--orange);
+}
+
 h5,
 h6 {
   font-size: 1rem;
