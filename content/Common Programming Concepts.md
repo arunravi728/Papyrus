@@ -47,15 +47,15 @@ let x = 2 * x;
 println!("{}", x);
 ````
 
-````Rust
+One of the major uses of shadowing is changing the type of a variable. Rust does not allow the user to change the type of a variable (even if it's mutable). Rust also does not support the implicit type conversion of variables like C or C++. Instead Rust uses shadowing to force the user to explicitly change the type if they need to.
+
+````rust
 // At this point spaces is of type string.
 let spaces = "This is a string!";
 
 // Now spaces is type integer.
 let spaces = spaces.len();
 ````
-
-One of the major uses of shadowing is changing the type of a variable. Rust does not allow the user to change the type of a variable (even if it's mutable). Rust also does not support the implicit type conversion of variables like C or C++. Instead Rust uses shadowing to force the user to explicitly change the type if they need to.
 
 ### Data Types
 
@@ -66,7 +66,13 @@ Rust data types are of two types -
 
 #### Tuples
 
-````Rust
+* General way of grouping types together.
+* Have fixed length that can't be changed.
+* Tuples can have variables of different types.
+* Tuples are zero indexed.
+* A tuple without any value is called a unit - `()`.
+
+````rust
 let tup: (bool, char, u32, f64) = (true, 'a', 18, 4.2);
 
 // This called destructing the tuple.
@@ -80,25 +86,19 @@ let c : u32 = tup.2;
 let d : f64 = tup.3;
 ````
 
-* General way of grouping types together.
-* Have fixed length that can't be changed.
-* Tuples can have variables of different types.
-* Tuples are zero indexed.
-* A tuple without any value is called a unit - `()`.
-
 #### Arrays
 
-````Rust
+* Arrays unlike tuples consist of elements of the same type.
+* Arrays are of fixed lengths. Use a vector from the standard library is a dynamic array is required.
+* Arrays are useful when you want data on the stack instead of the heap.
+
+````rust
 // This array consists 5 elements of u32.
 let arr : [u32; 5] = [1, 2, 3, 4, 5];
 
 // This is equivalent to [1, 1, 1, 1, 1]
 let arr : [u32; 5] = [5; 1];
 ````
-
-* Arrays unlike tuples consist of elements of the same type.
-* Arrays are of fixed lengths. Use a vector from the standard library is a dynamic array is required.
-* Arrays are useful when you want data on the stack instead of the heap.
 
 ### Functions
 
@@ -110,7 +110,12 @@ let arr : [u32; 5] = [5; 1];
 
 #### Statements vs Expressions
 
-````Rust
+* Rust is an expression based language.
+* Statements are instructions that perform some action and do not return a value.
+* Expressions evaluate to a resultant value.
+* Expressions generally don't have semi-colons.
+
+````rust
 // Here the instructions in the block evaluates to 4.
 // These instructions don't end with a semi-colon.
 // Making this block an expression instead of a statement.
@@ -121,14 +126,12 @@ let y = {
 }
 ````
 
-* Rust is an expression based language.
-* Statements are instructions that perform some action and do not return a value.
-* Expressions evaluate to a resultant value.
-* Expressions generally don't have semi-colons.
-
 ### Control Flow
 
-````Rust
+* Rust has all the regular control flow constructs like `if`, `for` and `while`.
+* The `if` and `loop` expression can be used with the `let` to assign values to variables.
+
+````rust
 // Here the if statments acts like the ternary operator in C/C++.
 // 
 // Note that the expressions in both arms should return the same type.
@@ -148,6 +151,3 @@ let result = loop {
 	}
 }
 ````
-
-* Rust has all the regular control flow constructs like `if`, `for` and `while`.
-* The `if` and `loop` expression can be used with the `let` to assign values to variables.
