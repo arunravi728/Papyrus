@@ -8,7 +8,9 @@ share: true
 
 Self Link: [Programming in Rust](Programming%20in%20Rust.md)
 
-This note contains the various Rust concepts I picked up when reading the book - *The Rust Programming Language* by Steve Klabnik and Carol Nichols. Rust provides a variety of advantages over legacy programming languages - 
+These notes contain the various Rust concepts I picked up when reading the book - *The Rust Programming Language* by Steve Klabnik and Carol Nichols. These notes were taken from a perspective of someone who has been programming for over 10 years. So they might skip some basic concepts that are common amongst programming languages.
+
+Rust provides a variety of advantages over legacy programming languages - 
 
 * Rust provides speed and stability - 
   * C/C++ lack stability.
