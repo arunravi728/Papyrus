@@ -8,7 +8,7 @@ share: true
 
 Self Link: [Common Programming Concepts](Common%20Programming%20Concepts.md)
 
-## Variables and Mutability
+### Variables and Mutability
 
  > 
  > By default Rust variables are immutable. This makes the programmer explicitly state the mutable nature of a variable if required.
@@ -21,7 +21,7 @@ Self Link: [Common Programming Concepts](Common%20Programming%20Concepts.md)
   * Constants can be declared in any scoped.
   * Constants can only be assigned constant expressions.
 
-### Shadowing
+#### Shadowing
 
 Shadowing is not the same as creating a mutable variable. We can only shadow by re-declaring the variable using the keyword `let`.  Shadowing allows us to carry out multiple transformations on a variable, after which it is still immutable.
 
@@ -57,14 +57,14 @@ let spaces = "This is a string!";
 let spaces = spaces.len();
 ````
 
-## Data Types
+### Data Types
 
 Rust data types are of two types - 
 
 1. Scalar - represents a single value (Integer, floating point, boolean, and characters).
 1. Compound - can group multiple variables into one type (arrays and tuples).
 
-### Tuples
+#### Tuples
 
 * General way of grouping types together.
 * Have fixed length that can't be changed.
@@ -86,7 +86,7 @@ let c : u32 = tup.2;
 let d : f64 = tup.3;
 ````
 
-### Arrays
+#### Arrays
 
 * Arrays unlike tuples consist of elements of the same type.
 * Arrays are of fixed lengths. Use a vector from the standard library is a dynamic array is required.
@@ -100,7 +100,7 @@ let arr : [u32; 5] = [1, 2, 3, 4, 5];
 let arr : [u32; 5] = [5; 1];
 ````
 
-## Functions
+### Functions
 
  > 
  > Functions are declared with the `fn` keyword.
@@ -108,7 +108,7 @@ let arr : [u32; 5] = [5; 1];
 * Rust does not care where a function is defined as long as it's within the scope.
 * Function signatures must declare the type of each parameter.
 
-### Statements vs Expressions
+#### Statements vs Expressions
 
 * Rust is an expression based language.
 * Statements are instructions that perform some action and do not return a value.
@@ -121,15 +121,15 @@ let arr : [u32; 5] = [5; 1];
 // Making this block an expression instead of a statement.
 // Thus the value of y is cound to 4.
 let y = {
-	let x = 3;
-	x + 1
+  let x = 3;
+  x + 1
 }
 ````
 
-## Control Flow
+### Control Flow
 
 * Rust has all the regular control flow constructs like `if`, `for` and `while`.
-* The `if` and `loop` expression can be used with the `let` to assign values to variables.
+* The `if` and `loop` expression can be used with the `let` keyword to assign values to variables.
 
 ````rust
 // Here the if statments acts like the ternary operator in C/C++.
@@ -144,10 +144,9 @@ let mut counter = 0;
 // Here the value of result is set to 20.
 // The expression after the break keyword is the value of the loop.
 let result = loop {
-	counter += 1;
-
-	if counter == 10 {
-		break 2 * counter;
-	}
+  counter += 1;
+  if counter == 10 {
+    break 2 * counter;
+  }
 }
 ````

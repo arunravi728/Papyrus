@@ -11,7 +11,7 @@ Self Link: [First Rust Program](First%20Rust%20Program.md)
 * Rust like C/C++ is an ahead-of-time statically compiled language.
 * The Rust compiler uses [LLVM](LLVM.md) on the backend.
 
-## Anatomy of a Rust Program
+### Anatomy of a Rust Program
 
 ````rust
 // By default Rust brings in items defined in the Standard Library.
@@ -85,7 +85,7 @@ fn main() {
 }
 ````
 
-## Crates
+### Crates
 
 * A crate is a collection of Rust source files.
 * There are two types of crates - 
