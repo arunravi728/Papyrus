@@ -16,17 +16,20 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.PageTitle(),
-    Component.Spacer(),
-    Component.Search(),
-    Component.Darkmode(),
+    Component.MobileOnly(Component.Search()),
     Component.ArticleTitle(),
     Component.ContentMeta(),
   ],
-  left: [],
+  left: [
+    Component.DesktopOnly(Component.PageTitle()),
+    Component.Darkmode(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.DesktopOnly(Component.Search()),
+    Component.DesktopOnly(Component.Backlinks()),
+  ],
   right: [
-    //   Component.Graph(),
-    //   Component.Backlinks()
+    Component.Graph(),
+    Component.MobileOnly(Component.Backlinks()),
   ],
 }
 
