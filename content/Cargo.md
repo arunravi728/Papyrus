@@ -23,7 +23,7 @@ Self Link: [Cargo](Cargo.md)
   * Sets the versions on the initial `cargo build` run.
   * Versions not changed until explicit update is called.
 
-##### Cargo Commands
+### Cargo Commands
 
 1. Create a new project - `cargo new`
 1. Build - `cargo build`
