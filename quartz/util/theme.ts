@@ -42,7 +42,7 @@ export function joinStyles(theme: Theme, ...stylesheet: string[]) {
   return `
 ${stylesheet.join("\n\n")}
 
-:root {
+:root[saved-theme="light"] {
   --light: ${theme.colors.lightMode.light};
   --lightgray: ${theme.colors.lightMode.lightgray};
   --gray: ${theme.colors.lightMode.gray};
@@ -53,13 +53,9 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.lightMode.highlight};
   --blue: ${theme.colors.lightMode.blue}
   --orange: ${theme.colors.lightMode.orange}
-
-  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
-  --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
-  --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
 }
 
-:root[saved-theme="dark"] {
+:root {
   --light: ${theme.colors.darkMode.light};
   --lightgray: ${theme.colors.darkMode.lightgray};
   --gray: ${theme.colors.darkMode.gray};
@@ -70,6 +66,10 @@ ${stylesheet.join("\n\n")}
   --highlight: ${theme.colors.darkMode.highlight};
   --blue: ${theme.colors.darkMode.blue}
   --orange: ${theme.colors.darkMode.orange}
+
+  --headerFont: "${theme.typography.header}", ${DEFAULT_SANS_SERIF};
+  --bodyFont: "${theme.typography.body}", ${DEFAULT_SANS_SERIF};
+  --codeFont: "${theme.typography.code}", ${DEFAULT_MONO};
 }
 `
 }
