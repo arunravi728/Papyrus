@@ -37,8 +37,8 @@ let x = x + 1;
 let x = 2 * x;
 
 {
-  // The new value of x here is 12.
-  let x = 3 * x;
+	// The new value of x here is 12.
+	let x = 3 * x;
 }
 
 // The value of x within the above scope is 12.
@@ -102,9 +102,7 @@ let arr : [u32; 5] = [5; 1];
 
 ### Functions
 
- > 
- > Functions are declared with the `fn` keyword.
-
+* Functions are declared using the `fn` keyword.
 * Rust does not care where a function is defined as long as it's within the scope.
 * Function signatures must declare the type of each parameter.
 
@@ -121,8 +119,8 @@ let arr : [u32; 5] = [5; 1];
 // Making this block an expression instead of a statement.
 // Thus the value of y is cound to 4.
 let y = {
-  let x = 3;
-  x + 1
+	let x = 3;
+	x + 1
 }
 ````
 
@@ -144,9 +142,9 @@ let mut counter = 0;
 // Here the value of result is set to 20.
 // The expression after the break keyword is the value of the loop.
 let result = loop {
-  counter += 1;
-  if counter == 10 {
-    break 2 * counter;
-  }
+	counter += 1;
+	if counter == 10 {
+		break 2 * counter;
+	}
 }
 ````

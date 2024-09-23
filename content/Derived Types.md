@@ -56,5 +56,6 @@ multiply(&add);
 1. Unions
 
  > 
- > \[!tip\]
+ > \[!tip\] Enum Classes
+ > 
  > Enum classes are scoped, as opposed to unscoped enums. Enum classes prohibit, direct comparison with integers.
