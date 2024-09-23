@@ -13,7 +13,7 @@ interface Options {
 
 const defaultOptions: Options = {
   theme: {
-    light: "github-light",
+    light: "one-dark-pro",
     dark: "one-dark-pro",
   },
   keepBackground: false,
