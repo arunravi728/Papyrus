@@ -1,15 +1,58 @@
 ---
 title: Map Reduce
 created: Sunday - 18th February, 2024
-updated: Tuesday - 24th September, 2024
+updated: Wednesday - 25th September, 2024
 consumed: 1
 share: true
 ---
 
 Self Link: [Map Reduce](Map%20Reduce.md)
+
 Source: [Map Reduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
-* Originally designed at Google by Jeff and Sanjay.
-* MapReduce is a distributed computing framework.
+* MapReduce is a distributed computing framework for processing large datasets.
+* A map function processes a key/value input and outputs intermediate key/value pairs. 
+* A reduce function merges all intermediate values associated with the same intermediate key.
+
+### Programming Model
+
+* The Map and Reduce functions are provided by the user.
+* The MapReduce library groups all intermediate values associated with the same intermediate key.
+* `map: (k1, v1) --> list(k2, v2)`
+* `reduce: (k2, list(v2)) -> list(v2)`
+* The input keys and values are in a different domain than the output keys and values.
+* The intermediate key/value pairs are in the same domain as the output keys and values.
+
+#### Word Counting With MapReduce
+
+The below pseudo code block shows how the MapReduce framework can be used to count the number of words in various documents.
+
+````python
+# The key is the doc_name.
+# The value is the doc_contents.
+# The intermediate result is (word, 1).
+# The map function is run on multiple documents.
+# We will get a large number of (word, 1) pairs.
+Map(String doc_name, String doc_contents):
+	for each word in doc_contents:
+		EmitIntermediate(w, "1")
+
+# At this point the MapReduce framework will aggregate
+# all pairs with the same key. For example, the Reduce
+# will run on the followin inputs - 
+# (w1, [1, 1, ...]), (w2, [1, 1, ...]), (w3, [1, 1, ...])
+
+# The input is going to be (word, [1, 1, ... 1]).
+# The output will be count (number of times the word is seen).
+Reduce(String word, Iterator counts):
+	return sum(counts)
+
+# The reduce function will run on every aggreate created
+# by the framework, and each run will prouce a single number.
+# The sum of all the outputs of reduce functions will give us
+# the total number of words in various documents.
+````
+
+### Implementation
 
 ![Map Reduce Implementation.png](./2.%20Areas/Technology/Distributed%20Systems/Map%20Reduce%20Implementation.png)
