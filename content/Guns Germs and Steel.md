@@ -6,7 +6,7 @@ status: Unread
 created: Friday - 22nd December, 2023
 updated: Friday - 22nd December, 2023
 finished: null
-category: Non Fuiction
+category: Non Fiction
 genre: History
 consumed: 1
 share: true

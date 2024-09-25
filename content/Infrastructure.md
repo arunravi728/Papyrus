@@ -1,14 +1,14 @@
 ---
 title: Infrastructure
 created: Saturday - 17th February, 2024
-updated: Saturday - 17th February, 2024
+updated: Tuesday - 24th September, 2024
 consumed: 1
 share: true
 ---
 
 Self Link: [Infrastructure](Infrastructure.md)
 
-Distributed systems is basically providing infrastructure for applications. The different types of infrastructure that can be provided are - 
+Distributed systems is a means to provide infrastructure for scalable and reliable applications. The different types of distributed infrastructure that can be provided are - 
 
 1. Storage
 1. Networking (What I work on at Google)
@@ -24,3 +24,7 @@ Infrastructure in general needs to be -
 1. Recoverable
 1. Replicated
 1. Consistent
+
+ > 
+ > \[!Note\] Strong vs Weak Consistency
+ > Strong consistency ensures that a read always returns the value from the latest write. Weak consistency is more flexible and does not guarantee that the latest write will be returned on a read.

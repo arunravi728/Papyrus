@@ -13,7 +13,7 @@ Self Link: [Distributed Systems](Distributed%20Systems.md)
 
 I took the following 2 free online courses of Distributes Systems during my second year at Google - 
 
-1. [MIT OCW - MIT 8.824](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&feature=shared)
+1. [MIT OCW - MIT 6.824](https://youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB&feature=shared)
 1. [Martin Kleppmann](https://youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB&feature=shared)
 
 I also read the book *Understanding Distributed Systems* by Roberto Vitillo. The book is more for entry level engineers which focusses on breadth rather than depth.
