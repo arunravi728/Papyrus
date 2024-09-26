@@ -10,8 +10,6 @@ Self Link: [Library](Library.md)
 
 |File|Author|Genre|
 |----|------|-----|
-|[The Body](./The%20Body.md)|Bill Bryson|Physical Fitness|
-|[Nexus](Nexus.md)|Yuval Noah Harari|History|
 |[The Psychology of Money](./The%20Psychology%20of%20Money.md)|Morgan Housel|Personal Finance|
 |[The Little Book of Common Sense Investing](./The%20Little%20Book%20of%20Common%20Sense%20Investing.md)|John C. Bogle|Personal Finance|
 
@@ -19,12 +17,14 @@ Self Link: [Library](Library.md)
 
 |File|Author|Genre|
 |----|------|-----|
-|[Storyworthy](./Storyworthy.md)|Matthew Dicks|-|
 |[The Artist's Way](./The%20Artist's%20Way.md)|Julia Cameron|-|
+|[Storyworthy](./Storyworthy.md)|Matthew Dicks|-|
 |[How to Take Smart Notes](./How%20to%20Take%20Smart%20Notes.md)|Sönke Ahrens|Note Taking|
 |[Getting Things Done](./Getting%20Things%20Done.md)|David Allen|-|
 |[Algorithms to Live By](./Algorithms%20to%20Live%20By.md)|Brian Christian, Griffiths|-|
+|[The Body](./The%20Body.md)|Bill Bryson|Physical Fitness|
 |[The Bullet Journal Method](./The%20Bullet%20Journal%20Method.md)|Ryder Carroll|Journaling|
+|[Nexus](Nexus.md)|Yuval Noah Harari|History|
 |[Guns Germs and Steel](./Guns%20Germs%20and%20Steel.md)|Jared Diamond|History|
 
 ### Finished

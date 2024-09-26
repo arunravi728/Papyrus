@@ -2,7 +2,7 @@
 tags: BookNote
 title: The Body
 author: Bill Bryson
-status: Reading
+status: Unread
 created: Thursday - 21st December, 2023
 updated: Saturday - 30th March, 2024
 finished: null

@@ -55,4 +55,16 @@ Reduce(String word, Iterator counts):
 
 ### Implementation
 
+* **STEP 1**: The MapReduce library splits the input into M splits.
+  * One of these pieces is called the Master which assigns work to the rest of the splits (Workers).
+  * There are M map tasks and R reduce tasks. An idle worker executes either a map or reduce task.
+* **STEP 2**: A map worker parses key value pairs from the input and executes the map function.
+  * The intermediate key value pairs are buffered and periodically written to disk.
+  * The master can access the disk and send data to idle workers to execute the reduce function.
+* **STEP 3**: The reduce workers uses a RPC (refer [RPCs and Threads](RPCs%20and%20Threads.md)) to retrieve data from the disk.
+  * The worker sorts the intermediate key/value pairs to group all instances of the same key together. This is fed to the reduce function.
+  * The output of the reduce functions appended to the final output file.
+* **STEP 4**: There will be one output file per reduce task.
+  * Typically these files are then sent through another MapReduce operation.
+
 ![Map Reduce Implementation.png](./2.%20Areas/Technology/Distributed%20Systems/Map%20Reduce%20Implementation.png)
