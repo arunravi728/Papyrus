@@ -61,7 +61,7 @@ Reduce(String word, Iterator counts):
 * **STEP 2**: A map worker parses key value pairs from the input and executes the map function.
   * The intermediate key value pairs are buffered and periodically written to disk.
   * The master can access the disk and send data to idle workers to execute the reduce function.
-* **STEP 3**: The reduce workers uses a RPC (refer [RPCs and Threads](RPCs%20and%20Threads.md)) to retrieve data from the disk.
+* **STEP 3**: The reduce workers uses a RPC to retrieve data from the disk.
   * The worker sorts the intermediate key/value pairs to group all instances of the same key together. This is fed to the reduce function.
   * The output of the reduce functions appended to the final output file.
 * **STEP 4**: There will be one output file per reduce task.
