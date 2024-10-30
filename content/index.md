@@ -1,15 +1,13 @@
 ---
 title: Papyrus
 created: Monday - 6th November, 2023
-updated: Monday - 6th November, 2023
+updated: Thursday - 31st October, 2024
 share: true
 ---
 
 ![papyrus.jpeg](./2.%20Areas/papyrus.jpeg)
 
-Hello! I'm Arun Ravi, and welcome to **Papyrus** - my second brain. This repository consists of my notes about a variety of topics ranging from  programming to cycling to cooking recipes. I have been taking notes on Obsidian ever since I started reading [Building a Second Brain](./Building%20a%20Second%20Brain.md), and discovered the power of not having to remember every piece of information I consume. 
-
-Feel free to explore Papyrus. Some starter landing pages you might be interested in - 
+Welcome to Papyrus, my digital Second Brain! I’m Arun Ravi, and this is a curated repository of my knowledge and notes on topics that excite me, from programming to cycling. Papyrus began as a personal experiment after reading [Building a Second Brain](./Building%20a%20Second%20Brain.md), and it has since become a reliable resource where I capture, organize, and connect ideas and insights - so I can focus more on discovery and less on recall. Feel feel to explore my collection of notes.
 
 * [Portfolio](./Portfolio.md)
 * [Library](./Library.md)

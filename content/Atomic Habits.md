@@ -129,7 +129,7 @@ Self Link: [Atomic Habits](Atomic%20Habits.md)
 
 ##### Chapter 16: How To Stick With Good Habits Everyday ^Chapter16
 
-* Use [Habit Trackers](./Habit%20Trackers.md) - Never Break The Chain.
+* Use [Habit Trackers](Habit%20Trackers.md) - Never Break The Chain.
   * This simultaneously makes a habit obvious, attractive and satisfying.
 * The most effective form of motivation is progress.
 * Log immediately after the habit occurs - positive reinforcement.
