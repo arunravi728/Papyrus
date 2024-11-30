@@ -9,7 +9,7 @@ share: true
 Self Link: [Generative Agents](Generative%20Agents.md)
 
 * Can be used in the games for NPCs.
-* Can be used for social sciences to simulate large scale human interaction.
+* Can be used for social sciences to simulate large-scale human interaction.
 
 ##### References
 

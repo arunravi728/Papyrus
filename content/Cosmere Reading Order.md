@@ -7,5 +7,6 @@ share: true
 ---
 
 Self Link: [Cosmere Reading Order](Cosmere%20Reading%20Order.md)
+Cosmere Map: https://www.cosmeremaps.com/stormlight
 
 ![Cosmere Reading Order.png](./2.%20Areas/Fantasy%20Fiction/Cosmere%20Reading%20Order.png)
