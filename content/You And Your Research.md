@@ -34,6 +34,6 @@ This is a talk given by Professor Richard W. Hamming, where he preaches 2 things
   1. Producing Written Reports.
   1. Master Informal Presentations.
 
-##### References
+### References
 
 * Source: [You And Your Research](https://d37ugbyn3rpeym.cloudfront.net/stripe-press/TAODSAE_zine_press.pdf)
