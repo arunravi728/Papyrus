@@ -39,7 +39,7 @@ Self Link: [Building a Second Brain](Building%20a%20Second%20Brain.md)
 
 * A knowledge asset is a crystallization of ideas that promises future value.
 * In any piece of content, value is not equally distributed.
-* [Externalize Your Thoughts](Externalize%20Your%20Thoughts.md) to reap the rewards of writing things down.
+* [Externalize Your Thoughts](./Externalize%20Your%20Thoughts.md) to reap the rewards of writing things down.
 
 ##### Chapter 5: [Organize](./Organize.md) - Save For Actionability ^Chapter5
 
@@ -79,4 +79,4 @@ Self Link: [Building a Second Brain](Building%20a%20Second%20Brain.md)
 1. [How to Take Smart Notes](./How%20to%20Take%20Smart%20Notes.md)
 1. [Atomic Habits](./Atomic%20Habits.md)
 1. [Getting Things Done](./Getting%20Things%20Done.md)
-1. [The Bullet Journal Method](The%20Bullet%20Journal%20Method.md)
+1. [The Bullet Journal Method](./The%20Bullet%20Journal%20Method.md)

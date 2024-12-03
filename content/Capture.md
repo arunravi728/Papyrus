@@ -43,4 +43,4 @@ Self Link: [Capture](Capture.md)
 
 - [Building a Second Brain](./Building%20a%20Second%20Brain.md#^Chapter4) #Productivity/NoteTaking ---> I find this idea to be very strange.
 
-Refer [Externalize Your Thoughts](Externalize%20Your%20Thoughts.md).
+Refer [Externalize Your Thoughts](./Externalize%20Your%20Thoughts.md).

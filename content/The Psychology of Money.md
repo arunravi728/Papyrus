@@ -4,7 +4,7 @@ title: The Psychology of Money
 author: Morgan Housel
 status: Reading
 created: Sunday - 29th October, 2023
-updated: Sunday - 1st December, 2024
+updated: Tuesday - 3rd December, 2024
 finished: null
 category: Non Fiction
 genre: Personal Finance
@@ -13,6 +13,7 @@ share: true
 ---
 
 Self Link: [The Psychology of Money](The%20Psychology%20of%20Money.md)
+Last Updated: Tuesday - 3rd December, 2024
 
 Morgan Housel's The Psychology of Money uses real-life anecdotes to describe how people's financial decisions are influenced by emotion rather than logic. My notes relate to the concepts behind the anecdotes.
 
@@ -80,19 +81,32 @@ The ability to stay for a long time makes the most significant difference. Time 
  > \[!Quote\] Napoleon on Geniuses
  > A person who can do the average thing when all those around them are going crazy.
 
-### Wealth brings Freedom
-
-A common denominator of happiness is people's desire for more control of their lives. The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. Money's greatest intrinsic value is its ability to give you control of your time.
-
 ### What is Wealth?
 
  > 
- > Wealth is what you don't see. Wealth is the nice cars not purchased. The diamonds not bought. The watches not worn, the clothes forgone and the first-class upgrade declined. Wealth is financial assets that haven’t yet been converted into the stuff you see.
+ > Wealth is what you don't see. Wealth is the nice cars not purchased, the diamonds not bought, the watches not worn, the clothes forgone, and the first-class upgrade declined. Wealth is financial assets that haven’t yet been converted into the stuff you see.
 
 Wanting to be a millionaire is different from spending a million dollars. The only way to accumulate wealth is not to spend the money you have. Wealth is hidden; it's income that is not spent. Wealth's value lies in providing future options, flexibility, and growth.
-
-### Save Money
 
 1. Building wealth has little to do with income or returns. It is more dependent on your savings rate.
 1. The value of wealth is relative to what you need. The less you need, the more you have.
 1. Saving for saving's sake is a powerful tool over time. Saving is a hedge against difficult times.
+
+A common denominator of happiness is people's desire for more control of their lives. The ability to do what you want, when you want, with who you want, for as long as you want, is priceless. Money's greatest intrinsic value is its ability to give you control of your time.
+
+### Avoiding Ruin
+
+* Rational optimism tends to hide potential risks of ruin.
+* Individuals should not take any risks that can wipe them out completely.
+* To help protect against optimism bias, investors should -
+  * Have safety margins.
+  * Avoid single points of failure.
+
+ > 
+ > \[!Quote\] Benjamin Graham
+ > The purpose of the margin of safety is to render the forecast unnecessary.
+
+As individuals age, their lives transform, often encountering unexpected situations such as medical crises, embarking on new career paths, or experiencing income loss. In all these circumstances, resilience is essential. To prevent financial disaster during these times, individuals must:
+
+1. Practice moderation to avert future regret.
+1. Accept the reality of change and avoid sunk costs.
