@@ -4,7 +4,7 @@ title: The Little Book of Common Sense Investing
 author: John C. Bogle
 status: Reading
 created: Monday - 29th April, 2024
-updated: Tuesday - 3rd December, 2024
+updated: Sunday - 15th December, 2024
 finished: null
 category: Non Fiction
 genre: Personal Finance
@@ -12,8 +12,8 @@ consumed: 1
 share: true
 ---
 
-Self Link: [The Little Book of Common Sense Investing](The%20Little%20Book%20of%20Common%20Sense%20Investing.md)
-Last Updated: Tuesday - 3rd December, 2024
+* Self Link: [The Little Book of Common Sense Investing](The%20Little%20Book%20of%20Common%20Sense%20Investing.md)
+* Last Updated: Sunday - 15th December, 2024
 
  > 
  > Successful investing is ALL about COMMON SENSE.
@@ -32,15 +32,44 @@ Last Updated: Tuesday - 3rd December, 2024
 * Occam's Razor - When there are multiple solutions to a problem, choose the simplest one.
 * The simplest way to win in the stock market is to own everything!
 * The simplest way to hold every stock is to have a total stock market portfolio.
+  * Best achieved through an index fund.
 
 ### Investment Costs
 
 * Investors as a group get what they don't pay for. So if you don't pay, you get everything.
 * The costs of financial intermediation are very high. Make sure your costs are meager.
 * Over the long term, compounding returns are overwhelmed by compounding costs.
+* Index funds are tax-efficient. They allow investors to defer capital gains until they sell.
+  * Delaying selling allows turnover to remain low, leading to lower taxes.
 * Investment return = Return - Tax - Investment Costs - Inflation --> Minimize your costs.
+* In a future with low returns, low-cost, tax-efficient funds remain good investment vehicles.
+  * The lower the returns, the worse the effect of investment costs on real returns.
+* Select index funds without sales loads (commissions).
+* Low-cost index funds outperform the average actively managed funds in less efficient markets.
 
  > 
  > The winning formula for investing success is owning the entire stock market through an index fund and then doing nothing. Just stay the course.
 
-Warren Buffet's four E's of investing - *The greatest Enemies of the Equity investor are Expenses and Emotions*.
+ > 
+ > \[!Quote\] Warren Buffet's 4 E's of Investment
+ > The greatest Enemies of the Equity investor are Expenses and Emotions.
+
+### Fixed-Income Securities
+
+Fixed-income securities include bonds, money market funds, and HYSAs. The rates produced by these securities are directly related to the interest rates.
+
+###### Bonds
+
+* Long-dated bonds are more volatile but provide higher returns than short-dated bonds.
+* Bonds represent debt; bonds default if the interest for the underlying securities isn't paid.
+* There are three major classes of bonds - 
+  1. Taxable corporate and government bonds.
+  1. Tax-exempt municipal bonds.
+  1. US Treasury Bills.
+* Always avoid bond funds with sales loads.
+
+###### Money Market Funds
+
+* Money Market Funds are short-term bond funds with uniform high credit quality.
+* With short maturities, high credit quality, and diversified portfolios, money market funds become commodities.
+* They are not FDIC-insured like HYSAs.

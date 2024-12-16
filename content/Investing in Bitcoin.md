@@ -1,7 +1,7 @@
 ---
 title: Investing in Bitcoin
 created: Wednesday - 13th November, 2024
-updated: Monday - 18th November, 2024
+updated: Sunday - 15th December, 2024
 consumed: 1
 share: true
 ---
@@ -65,3 +65,9 @@ As a country prints more money, the inherent value offered by the same denominat
 ### Cryptocurrency vs Blockchain
 
 ### Why Not Gold?
+
+### Experts Opinion on Bitcoin
+
+Source:
+
+1. https://apple.news/AZF7pBLLYQD2DkU21f3uwnw
