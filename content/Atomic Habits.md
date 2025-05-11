@@ -152,4 +152,4 @@ Self Link: [Atomic Habits](Atomic%20Habits.md)
 ##### Further Reading Mentioned
 
 1. [Getting Things Done](./Getting%20Things%20Done.md)
-1. [Guns Germs and Steel](./Guns%20Germs%20and%20Steel.md)
+1. [Guns Germs and Steel](Guns%20Germs%20and%20Steel.md)

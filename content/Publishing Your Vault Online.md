@@ -46,7 +46,7 @@ Build and preview the website before pushing to GitHub. Can be done by running -
  > 
  > \[!Warning\] Quartz does not natively support dataview and excalidraw. Refer [GitHub Publisher](./GitHub%20Publisher.md).
 
-For more advanced modifications refer [Quartz](Public/Quartz.md).
+For more advanced modifications refer [Quartz](Quartz.md).
 
 ##### References
 

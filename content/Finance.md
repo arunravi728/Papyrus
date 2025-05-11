@@ -11,7 +11,7 @@ Self Link: [Finance](Finance.md)
 
 1. [The Three-Fund Portfolio](./The%20Three-Fund%20Portfolio.md)
 1. [Certified Deposits](./Certified%20Deposits.md)
-1. [Investing in Bitcoin](./Investing%20in%20Bitcoin.md)
+1. [Investing in Bitcoin](Investing%20in%20Bitcoin.md)
 
 ### Book Notes
 
