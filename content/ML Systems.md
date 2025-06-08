@@ -1,8 +1,5 @@
 ---
 title: ML Systems
-created: Thursday - 15th February, 2024
-updated: Thursday - 15th February, 2024
-consumed: 1
 share: true
 ---
 
@@ -13,7 +10,7 @@ This note contains what I learned about machine learning systems. I used the fol
 2. [Stanford MLSys Seminar](https://youtube.com/playlist?list=PLSrTvUm384I9PV10koj_cqit9OfbJXEkq&feature=shared)
 3. [Designing Machine Learning Systems - Book by Chip Hyuen](https://github.com/chiphuyen/dmls-book)
 
-I started with the book by Chip Hyuen, and listened to the MLSys seminar from Stanford whenever I had time. Here are a list of topics to further explore - 
+I started with the book by Chip Hyuen, and listened to the MLSys seminar from Stanford whenever I had time. Here is a list of topics to further explore - 
 
 1. [When to use Machine Learning?](./When%20to%20use%20Machine%20Learning?.md)
 1. 

@@ -1,31 +1,26 @@
 ---
 title: Derived Types
-created: Wednesday - 8th November, 2023
-updated: Friday - 10th November, 2023
-consumed: 1
 share: true
 ---
 
-Self Link: [Derived Types](Derived%20Types.md)
-
-##### Arrays
+### Arrays
 
 * Continuous collections of items of a singular type.
 
-##### Pointers
+### Pointers
 
 * Store addresses of other variables.
-* Memory location of variable is decided at run time.
-* Pointer size is architecture dependent.
+* The memory location of a variable is decided at run time.
+* Pointer size is architecture-dependent.
 
-##### References
+### References
 
 * These act as aliases to variables.
 * They must always be initialized and never be null.
 
-##### Functions
+### Functions
 
-* Series of statements grouped together.
+* A series of statements grouped together.
 * Function's type = Return Type + {Type of Parameters}
 
 ````cpp
@@ -47,7 +42,7 @@ int multiply(int (*)(int, int));
 multiply(&add);
 ````
 
-##### User Defined Types
+### User-Defined Types
 
 1. Enums
 1. Enum Classes

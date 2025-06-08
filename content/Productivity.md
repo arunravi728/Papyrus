@@ -1,7 +1,5 @@
 ---
 title: Productivity
-created: Sunday - 5th May, 2024
-updated: Sunday - 5th May, 2024
 share: true
 ---
 

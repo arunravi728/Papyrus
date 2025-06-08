@@ -1,12 +1,7 @@
 ---
 title: Four Laws of Behavior Change
-created: Monday - 30th October, 2023
-updated: Monday - 30th October, 2023
-consumed: 4
 share: true
 ---
-
-Self Link: [Four Laws of Behavior Change](Four%20Laws%20of%20Behavior%20Change.md)
 
 |Law|How to Create a Good Habit|
 |:-:|:------------------------:|

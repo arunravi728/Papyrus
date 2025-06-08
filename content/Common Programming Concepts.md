@@ -1,24 +1,19 @@
 ---
 title: Common Programming Concepts
-created: Tuesday - 17th September, 2024
-updated: Saturday - 21st September, 2024
-consumed: 1
 share: true
 ---
-
-Self Link: [Common Programming Concepts](Common%20Programming%20Concepts.md)
 
 ### Variables and Mutability
 
  > 
- > By default Rust variables are immutable. This makes the programmer explicitly state the mutable nature of a variable if required.
+ > By default, Rust variables are immutable. This makes the programmer explicitly state the mutable nature of a variable if required.
 
-* The `mut` keyword can be used make a variable mutable.
+* The `mut` keyword can be used to make a variable mutable.
 * Variables are different from constants in Rust - 
   * Constants can never be mutable.
   * Constants are declared using the `const` keyword instead of `let`.
   * Constants should always have their type annotated.
-  * Constants can be declared in any scoped.
+  * Constants can be declared in any scope.
   * Constants can only be assigned constant expressions.
 
 #### Shadowing

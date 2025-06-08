@@ -1,14 +1,9 @@
 ---
 title: Fundamental Types
-created: Wednesday - 8th November, 2023
-updated: Wednesday - 8th November, 2023
-consumed: 1
 share: true
 ---
 
-Self Link: [Fundamental Types](Fundamental%20Types.md)
-
-These are built in types that the C++ compiler implicitly understands. Some of the built in types are - 
+These are built-in types that the C++ compiler implicitly understands. Some of the built-in types are - 
 
 1. Booleans
 1. Characters
@@ -20,7 +15,7 @@ These are built in types that the C++ compiler implicitly understands. Some of t
  > 
  > \[!note\] Void Variables
  > 
- > No variable can be of type `void`, it is primarily used to indicate a function returning nothing. `void *` can point to any variable, and needs to be casted to another type before being dereferenced.
+ > No variable can be of type `void`; it is primarily used to indicate a function returning nothing. A `void *` can point to any variable, and needs to be cast to another type before being dereferenced.
 
 These fundamental types can further be modified using type specifiers. These set the size and the values allowed to be stored in these types.
 

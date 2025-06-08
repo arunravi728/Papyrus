@@ -1,14 +1,11 @@
 ---
 title: Programming in C++
-created: Wednesday - 8th November, 2023
-updated: Saturday - 11th November, 2023
-consumed: 1
 share: true
 ---
 
 Self Link: [Programming in C++](Programming%20in%20C++.md)
 
-This note contains the various C++ concepts I have learned over the years through my personal projects and my time at Google and Samsung. The notes in this page come from the perspective of someone who has been coding in C++ for over 5 years, and hence some of the basics might be glossed over. These notes would serve as great refresher for someone who is getting back into the language.
+This note contains the various C++ concepts I have learned over the years through my projects and my time at Google and Samsung. The notes on this page come from the perspective of someone who has been coding in C++ for over 5 years, and hence, some of the basics might be glossed over. These notes would serve as a great refresher for someone who is getting back into the language.
 
 A list of topics to explore further - 
 

@@ -1,8 +1,5 @@
 ---
 title: SCC
-created: Tuesday - 31st October, 2023
-updated: Tuesday - 31st October, 2023
-consumed: 1
 share: true
 ---
 

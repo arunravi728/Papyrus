@@ -1,12 +1,8 @@
 ---
 title: Distributed Systems
-created: Saturday - 17th February, 2024
-updated: Saturday - 17th February, 2024
-consumed: 1
 share: true
 ---
 
-Self Link: [Distributed Systems](Distributed%20Systems.md)
 
  > 
  > Distributed systems are a set of cooperating computers that are communicating with each other over a network to get some task done.

@@ -1,11 +1,7 @@
 ---
 title: DS and Algo Tips
-created: Wednesday - 1st January, 2025
-updated: Monday - 6th January, 2025
 share: true
 ---
-
-Self Link: [DS and Algorithms Tips](DS%20and%20Algorithms%20Tips.md)
 
 ### STL
 
@@ -14,7 +10,7 @@ Self Link: [DS and Algorithms Tips](DS%20and%20Algorithms%20Tips.md)
 ### Arrays
 
 1. Always look for edge cases, specifically if the array is empty or smaller than the required length.
-1. When dealing with string, check if the characters are lowercase, uppercase, alphanumeric etc.
+1. When dealing with strings, check if the characters are lowercase, uppercase, alphanumeric etc.
 
 ### Min Heap
 

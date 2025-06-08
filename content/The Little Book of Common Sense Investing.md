@@ -3,17 +3,11 @@ tags: BookNote
 title: The Little Book of Common Sense Investing
 author: John C. Bogle
 status: Finished
-created: Monday - 29th April, 2024
-updated: Sunday - 15th December, 2024
-finished: Sunday - 8th June, 2025
 category: Non-Fiction
 genre: Personal Finance
-consumed: 1
 share: true
 ---
 
-* Self Link: [The Little Book of Common Sense Investing](The%20Little%20Book%20of%20Common%20Sense%20Investing.md)
-* Last Updated: Sunday - 15th December, 2024
 
  > 
  > Successful investing is ALL about COMMON SENSE.
@@ -51,14 +45,14 @@ share: true
  > The winning formula for investing success is owning the entire stock market through an index fund and then doing nothing. Just stay the course.
 
  > 
- > \[!Quote\] Warren Buffet's 4 E's of Investment
+ > \[!Quote\] Warren Buffett's 4 E's of Investment
  > The greatest Enemies of the Equity investor are Expenses and Emotions.
 
 ### Fixed-Income Securities
 
 Fixed-income securities include bonds, money market funds, and HYSAs. The rates produced by these securities are directly related to the interest rates.
 
-###### Bonds
+#### Bonds
 
 * Long-dated bonds are more volatile but provide higher returns than short-dated bonds.
 * Bonds represent debt; bonds default if the interest for the underlying securities isn't paid.
@@ -68,7 +62,7 @@ Fixed-income securities include bonds, money market funds, and HYSAs. The rates 
   1. US Treasury Bills.
 * Always avoid bond funds with sales loads.
 
-###### Money Market Funds
+#### Money Market Funds
 
 * Money Market Funds are short-term bond funds with uniform high credit quality.
 * With short maturities, high credit quality, and diversified portfolios, money market funds become commodities.

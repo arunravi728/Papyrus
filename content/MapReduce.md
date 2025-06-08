@@ -1,12 +1,7 @@
 ---
 title: MapReduce
-consumed: 1
 share: true
 ---
-
-Self Link: [MapReduce](MapReduce.md)
-
-Source: [MapReduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
 
 * MapReduce is a distributed computing framework for processing large datasets.
 * A map function processes a key/value input and outputs intermediate key/value pairs. 
@@ -35,7 +30,7 @@ Map(String doc_name, String doc_contents):
 	for each word in doc_contents:
 		EmitIntermediate(w, "1")
 
-# At this point the MapReduce framework will aggregate
+# At this point, the MapReduce framework will aggregate
 # all pairs with the same key. For example, the Reduce
 # will run on the following inputs - 
 # (w1, [1, 1, ...]), (w2, [1, 1, ...]), (w3, [1, 1, ...])
@@ -66,3 +61,7 @@ Reduce(String word, Iterator counts):
   * Typically, these files are then sent through another MapReduce operation.
 
 ![Map Reduce Implementation.png](./2.%20Areas/Technology/Distributed%20Systems/Map%20Reduce%20Implementation.png)
+
+### References
+
+1. [MapReduce Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)

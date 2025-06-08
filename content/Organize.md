@@ -1,8 +1,5 @@
 ---
 title: Organize
-created: Friday - 27th October, 2023
-updated: Friday - 27th October, 2023
-consumed: 1
 share: true
 ---
 
@@ -14,10 +11,8 @@ Self Link: [Organize](Organize.md)
 ##### [PARA](./PARA.md)
 
 * Organizes information based on how actionable it is.
-* Allows a consistent organizing system across mediums.
+* Allows a consistent organizing system across media.
 * PARA isn't a filing system, but a production system.
 
  > 
- > It is only the steady completion of tangible wins that can infuse you with a sense of determination, momentum and accomplishment.
-
-- [Building a Second Brain](./Building%20a%20Second%20Brain.md#^Chapter5)
+ > It is only the steady completion of tangible wins that can infuse you with a sense of determination, momentum, and accomplishment.

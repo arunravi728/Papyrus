@@ -1,12 +1,8 @@
 ---
 title: When to use Machine Learning?
-created: Thursday - 15th February, 2024
-updated: Thursday - 15th February, 2024
-consumed: 1
 share: true
 ---
 
-Self Link: [When to use Machine Learning?](When%20to%20use%20Machine%20Learning?.md)
 
  > 
  > Machine learning is an approach to learn complex patterns from existing data and use these patterns to make predictions on unseen data.
@@ -21,6 +17,6 @@ Self Link: [When to use Machine Learning?](When%20to%20use%20Machine%20Learning?
 1. The solutions are at scale.
 1. Constantly changing patterns.
 
-* Don't dismiss new technology for not being as cost effective as existing solutions.
-  * Technologies can become better with more investement.
+* Don't dismiss new technology for not being as cost-effective as existing solutions.
+  * Technologies can become better with more investment.
   * If you wait for a technology to mature before adopting, you will be outdated.

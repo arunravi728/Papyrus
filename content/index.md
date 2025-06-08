@@ -1,11 +1,7 @@
 ---
 title: Papyrus
-created: Monday - 6th November, 2023
-updated: Thursday - 8th May, 2025
 share: true
 ---
-
-![papyrus.jpeg](./2.%20Areas/papyrus.jpeg)
 
 **Welcome to Papyrus** — my digital garden, second brain, and long-term memory that works.
 

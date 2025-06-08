@@ -1,33 +1,28 @@
 ---
 title: Manage Your Career like a Project
-created: Sunday - 12th May, 2024
-updated: Sunday - 12th May, 2024
-consumed: 1
 share: true
 ---
 
-Self Link: [Project Manage your Career](Project%20Manage%20your%20Career.md)
-
 These are my notes on attending a talk given by a Google career coach on how to treat your career like a project.
 
-##### Initiate
+### Initiate
 
-* Define scope of what you are trying to achieve.
+* Define the scope of what you are trying to achieve.
 * It is generally guided by motivation.
-* Also define the success criteria.
+* Also, define the success criteria.
 
-##### Create a Next Move Objective
+### Create a Next Move Objective
 
 * The objective should be -
   1. Specific
   1. Measurable
   1. Actionable
   1. Relevant
-  1. Time bound.
-* Break down all these objectives into bite sized chunks.
+  1. Time-bound.
+* Break down all these objectives into bite-sized chunks.
 
-##### Execute
+### Execute
 
-* Have a well managed calendar.
+* Have a well-managed calendar.
 * Have a robust [Note Taking](Note%20Taking.md) system in place.
-* Grow your personal network.
+* Grow your network.

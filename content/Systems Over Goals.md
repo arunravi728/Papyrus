@@ -1,8 +1,5 @@
 ---
 title: Systems Over Goals
-created: Monday - 30th October, 2023
-updated: Monday - 30th October, 2023
-consumed: 5
 share: true
 ---
 
@@ -10,9 +7,9 @@ Self Link: [Systems Over Goals](Systems%20Over%20Goals.md)
 
 * Success depends on your systems, not goals.
   * Both successful and unsuccessful people have the same goals.
-  * The difference is the systems/process employed.
-* Goals are temporary changes. Systems lead to long term repeatable changes.
-* Focussing on goals leads to abandoning the process after the goal is achieved.
+  * The difference is the systems/processes employed.
+* Goals are temporary changes. Systems lead to long-term repeatable changes.
+* Focusing on goals leads to abandoning the process after the goal is achieved.
   * The purpose of goals is to win the game.
   * The purpose of a system is to continue playing.
 * You do not rise to the level of your goals, but fall to the level of your systems.

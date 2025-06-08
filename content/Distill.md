@@ -1,18 +1,14 @@
 ---
 title: Distill
-created: Friday - 27th October, 2023
-updated: Friday - 27th October, 2023
-consumed: 1
 share: true
 ---
 
-Self Link: [Distill](Distill.md)
 
  > 
- > To attain knowledge, add things everyday.
- > To attain wisdom, remove things everyday.
-
-- Lao Tzu (Chinese Philosopher) #Productivity/NoteTaking 
+ > \[!Quote\] Lao Tzu (Chinese Philosopher)
+ > 
+ > To attain knowledge, add things every day.
+ > To attain wisdom, remove things every day.
 
 * Distillation is the very heart of effective communication.
 * Use progressive summarization to convert a large block of text to its basic idea.
@@ -21,10 +17,10 @@ Self Link: [Distill](Distill.md)
 
 * Takes advantage of highlighting.
 * The main idea is recursive highlighting.
-* This is not done on note creation, rather on successive note consumptions.
+* This is not done on note creation, but rather on successive note consumptions.
 * There are four layers - 
   1. Captured Notes - Original Notes.
-  1. Bolded Passages - Most important part of the original notes.
+  1. Bolded Passages - The Most important part of the original notes.
   1. Highlighted Passages - Highlight important parts of the bolded passages.
   1. Executive Summary -  Only needed when the note is visited frequently.
 

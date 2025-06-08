@@ -1,12 +1,7 @@
 ---
 title: RPCs and Threads
-created: Wednesday - 25th September, 2024
-updated: Wednesday - 25th September, 2024
-consumed: 1
 share: true
 ---
-
-Self Link: [Threads](Threads.md)
 
 Threads enable the following - 
 
@@ -16,15 +11,15 @@ Threads enable the following -
 
 ### RPCs and Threads
 
-* We generally have an RPC service which listens for incoming requests.
+* We generally have an RPC service that listens for incoming requests.
 * For each request, the service will spawn a separate thread to construct a response.
 * On the client side, we can separate threads sending RPC requests to different RPC services.
 
 ### Asynchronous Programming
 
-* Also called event driven programming.
-* We have a task which waits for a particular event (eg: an interrupt).
-* This is an alternate to concurrent programming.
+* Also called event-driven programming.
+* We have a task that waits for a particular event (eg, an interrupt).
+* This is an alternative to concurrent programming.
 * Lower overhead than concurrent programming.
 
 ### Threads vs Processes
@@ -40,4 +35,4 @@ Threads enable the following -
 
 ### Open Questions
 
-1. When a operating system context switches, does it operate on threads or processes? If it operates on processes, how does it decide which thread to run?
+1. When an operating system context switches, does it operate on threads or processes? If it operates on processes, how does it decide which thread to run?

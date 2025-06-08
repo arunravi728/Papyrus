@@ -2,19 +2,11 @@
 tags: BookNote
 title: The Psychology of Money
 author: Morgan Housel
-status: Finsihed
-created: Sunday - 29th October, 2023
-updated: Tuesday - 3rd December, 2024
-finished: Sunday - 8th June, 2025
+status: Finished
 category: Non-Fiction
 genre: Personal Finance
-consumed: 1
 share: true
 ---
-
-Self Link: [The Psychology of Money](The%20Psychology%20of%20Money.md)
-
-Last Updated: Tuesday - 3rd December, 2024
 
 Morgan Housel's The Psychology of Money uses real-life anecdotes to describe how people's financial decisions are influenced by emotion rather than logic. My notes relate to the concepts behind the anecdotes.
 

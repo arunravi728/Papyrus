@@ -1,11 +1,7 @@
 ---
 title: Finance
-created: Sunday - 5th May, 2024
-updated: Sunday - 5th May, 2024
 share: true
 ---
-
-Self Link: [Finance](Finance.md)
 
 ### Notes on Investing
 

@@ -1,17 +1,12 @@
 ---
 title: Certified Deposits
-created: Friday - 10th November, 2023
-updated: Friday - 10th November, 2023
-consumed: 1
 share: true
 ---
 
-Self Link: [Certified Deposits](Certified%20Deposits.md)
-
-* A CD is a savings type account which earns a fixed interest for a fixed period of time.
+* A CD is a savings-type account that earns a fixed interest for a fixed period.
 * The principal in a CD should remain untouched for the period of the CD.
   * Any withdrawal of money will lead to a penalty.
-* CDs offer fixed, safe, and generally federally insured (up to 250,000 dollars).
+* CDs offer fixed, safe, and generally federally insured (up to 250,000).
 * CDs don’t offer the growth potential of equity or debt investments.
 * CD interest taxes are not on maturity, but when the bank gives you the interest.
 * Check early withdrawal penalty (EWP) and make sure it does not touch your principal.
@@ -31,7 +26,6 @@ Opening a CD will lock you in -
  > \[!important\]
  > When choosing the CD term, pay attention to the Fed’s rate-setting movements and plans. Opening a long-term CD right before a Fed rate hike can hurt your future earnings, while expectations of decreasing rates can signal a good time to lock in a long-term rate.
 
-##### References
+### References
 
-* Source: [Investopedia/CD](https://www.investopedia.com/terms/c/certificateofdeposit.asp#toc-what-is-a-cd-ladder-and-why-should-i-build-one)
-* Also refer [CD Ladder](./CD%20Ladder.md)
+1. [Investopedia/CD](https://www.investopedia.com/terms/c/certificateofdeposit.asp#toc-what-is-a-cd-ladder-and-why-should-i-build-one)

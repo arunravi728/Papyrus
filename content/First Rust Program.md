@@ -1,20 +1,15 @@
 ---
 title: First Rust Program
-created: Wednesday - 14th February, 2024
-updated: Tuesday - 17th September, 2024
-consumed: 1
 share: true
 ---
 
-Self Link: [First Rust Program](First%20Rust%20Program.md)
-
-* Rust like C/C++ is an ahead-of-time statically compiled language.
-* The Rust compiler uses [LLVM](LLVM.md) on the backend.
+* Rust, like C/C++, is an ahead-of-time statically compiled language.
+* The Rust compiler uses [LLVM](./LLVM.md) on the backend.
 
 ### Anatomy of a Rust Program
 
 ````rust
-// By default Rust brings in items defined in the Standard Library.
+// By default, Rust brings in items defined in the Standard Library.
 // This is called the prelude.
 //
 // Anything not in the prelude can be brought in through the `use` statement.
@@ -25,13 +20,13 @@ use rand::Rng;
 // The fn keyword is used to specify a Rust function.
 //
 // The `main` function is special. It is similar to the C/C++ main function.
-// It is first piece of code that runs in every executable Rust program.
+// It is the first piece of code that runs in every executable Rust program.
 fn main() {
 
 	// The `!` after println indicates a Rust macro and not a function.
 	// This is done because Rust functions do not take a variable number of
 	// function arguments. Thus, using a macro for printing circumvents that,
-	// as prints generally have variable number of arguments.
+	// as prints generally have a variable number of arguments.
 	println!("Guess the number!");
 
 	// The `let` statement is used to create variables.
@@ -41,15 +36,15 @@ fn main() {
 	loop {
 		println!("Please input your guess!");
 
-		// In Rust variables are immutable by default.
-		// The `mut` keyword specifies the variable is mutable.
+		// In Rust, variables are immutable by default.
+		// The `mut` keyword specifies that the variable is mutable.
 		let mut guess = String::new();
 	
 		// The `&` indicates a reference.
 		// References are immutable by default.
 		// The `mut` keyword makes it a mutable reference.
 		//
-		// The read_line function retuns a `Result` value, encoding error information.
+		// The read_line function returns a `Result` value, encoding the error
 		// This is an `enum`. Each state of an `enum` is a `variant`.
 		// An instance of `Result` has an `expect` method.
 		io::stdin()
@@ -57,7 +52,7 @@ fn main() {
 			.expect("Failed to read line");
 	
 		// Here we employ shadowing. It allows us to reuse variable names.
-		// Used frequently when converting varaibles from one type to another.
+		// Used frequently when converting variables from one type to another.
 		// There is no implicit type conversion in Rust, and hence we use shadowing.
 		//
 		// The type specified after `:` tells the parse function what type to
@@ -70,9 +65,9 @@ fn main() {
 			Err(_) => continue,    // _ is a catch all value
 		};
 	
-		// Here we comapre `guess` and `secret_number`.
+		// Here we compare `guess` and `secret_number`.
 		// Returns a variant of the `Ordering` enum.
-		// The `match` statement is a control statment on the variant returned.
+		// The `match` statement is a control statement on the variant returned.
 		match guess.cmp(&secret_number) {
 			Ordering::Less => println!("Too Small");
 			Ordering::Greater => println!("Too Big");

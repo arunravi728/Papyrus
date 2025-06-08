@@ -1,8 +1,5 @@
 ---
 title: Identity Change
-created: Monday - 30th October, 2023
-updated: Friday - 3rd November, 2023
-consumed: 4
 share: true
 ---
 
@@ -18,6 +15,6 @@ Self Link: [Identity Change](Identity%20Change.md)
  > 
  > Habits matter because they help you become the person you want to be.
 
-In [Things I want to Inculcate](Things%20I%20want%20to%20Inculcate.md), I lay down a bunch of different goals I wanted to achieve over the next two years. In [Who I Am](Who%20I%20Am.md), I outline the type of person I want to be.
+In [Things I want to Inculcate](Things%20I%20want%20to%20Inculcate.md), I lay down a bunch of different goals I want to achieve over the next two years. In [Who I Am](Who%20I%20Am.md), I outline the type of person I want to be.
 
 -> [Habit Identity Loop Drawing](Habit%20Identity%20Loop%20Drawing.md)

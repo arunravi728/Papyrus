@@ -3,7 +3,6 @@ title: Reliability
 share: true
 ---
 
-Self Link: [Reliability](Reliability.md)
 
  > 
  > Reliability is the ability of a system to work as expected even when something goes wrong.
@@ -21,4 +20,6 @@ Self Link: [Reliability](Reliability.md)
 
 * The technique of creating deliberate faults is called fault-injection.
 * This keeps systems continuously tested for fault-tolerance.
-* A good example of this in practice is the [Netflix Chaos Monkey](./Netflix%20Chaos%20Monkey.md).
+* A good example of this in practice is the [Netflix Chaos Monkey](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116).
+
+### Hardware Faults

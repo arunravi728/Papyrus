@@ -1,12 +1,7 @@
 ---
 title: Stack and Heap
-created: Saturday - 21st September, 2024
-updated: Saturday - 21st September, 2024
-consumed: 1
 share: true
 ---
-
-Self Link: [Stack and Heap](Stack%20and%20Heap.md)
 
 Both the stack and heap are parts of memory that are available to the code to use at runtime.
 
