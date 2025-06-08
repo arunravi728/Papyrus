@@ -130,7 +130,7 @@ a {
     & li:has(> input[type="checkbox"]:checked) {
       text-decoration: line-through;
       text-decoration-color: var(--gray);
-      color: var(--gray);
+      color: #0B1D51;
     }
 
     & li > * {
@@ -139,7 +139,7 @@ a {
     }
 
     p > strong {
-      color: var(--dark);
+      color: #0B1D51;
     }
   }
 
@@ -311,14 +311,12 @@ h3 {
   font-size: 1.4rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
-  color: var(--h3);
 }
 
 h4 {
   font-size: 1.12rem;
   margin-top: 1.62rem;
   margin-bottom: 1rem;
-  color: var(--h4);
 }
 
 h5,
