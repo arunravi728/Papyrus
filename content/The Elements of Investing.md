@@ -6,7 +6,7 @@ status: Finished
 created: Monday - 29th April, 2024
 updated: Monday - 29th April, 2024
 finished: Finished
-category: Non Fiction
+category: Non-Fiction
 genre: Personal Finance
 consumed: 1
 share: true

@@ -2,11 +2,11 @@
 tags: BookNote
 title: The Little Book of Common Sense Investing
 author: John C. Bogle
-status: Reading
+status: Finished
 created: Monday - 29th April, 2024
 updated: Sunday - 15th December, 2024
-finished: null
-category: Non Fiction
+finished: Sunday - 8th June, 2025
+category: Non-Fiction
 genre: Personal Finance
 consumed: 1
 share: true

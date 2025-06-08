@@ -6,7 +6,7 @@ status: Finished
 created: Sunday - 29th October, 2023
 updated: Monday - 25th December, 2023
 finished: null
-category: Non Fiction
+category: Non-Fiction
 genre: Habit Building
 consumed: 5
 share: true

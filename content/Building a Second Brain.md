@@ -6,7 +6,7 @@ status: Finished
 created: Sunday - 22nd October, 2023
 updated: Sunday - 29th October, 2023
 finished: Sunday - 29th October, 2023
-category: Non Fiction
+category: Non-Fiction
 genre: Note Taking
 consumed: 2
 share: true
