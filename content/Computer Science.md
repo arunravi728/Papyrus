@@ -1,9 +1,9 @@
 ---
-title: Technology
+title: Computer Science
 share: true
 ---
 
-Self Link: [Technology](Technology.md)
+Self Link: [Computer Science](Computer%20Science.md)
 
 1. [Distributed Systems](./Distributed%20Systems.md)
 1. [ML Systems](./ML%20Systems.md)

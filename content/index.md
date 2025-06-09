@@ -9,7 +9,7 @@ Papyrus began as a personal experiment after reading [Building a Second Brain]
 
 Feel feel to explore my collection of notes.
 
-* [Technology](./Technology.md)
+* [Computer Science](./Computer%20Science.md)
 * [Finance](./Finance.md)
 * [Productivity](./Productivity.md)
 * [Career](./Career.md)
