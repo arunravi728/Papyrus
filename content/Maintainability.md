@@ -23,4 +23,4 @@ The best way to remove complexity is through good abstractions. A good abstracti
 
 ### Evolvability
 
-Evolvability is the ease of a system to adapt to unprecedented future use cases and requirement changes. The evolvability of a system is closely linked to how simple it is and the quality of the abstractions it uses.
+Evolvability is the ease with which a system adapts to unprecedented future use cases and requirement changes. The evolvability of a system is closely linked to how simple it is and the quality of the abstractions it uses.
