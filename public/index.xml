@@ -6,65 +6,65 @@
       <description>Last 10 notes on Papyrus</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Biking Tips</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Biking-Tips</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Biking-Tips</guid>
-    <description>Self Link: Biking Tips Have a good rear light. It needs to be able to handle all weather conditions. Needs to have good battery life. Learn to handle the bike with one hand.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>Papyrus</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/</guid>
+    <description> Welcome to Papyrus! Papyrus is my collection of notes on a variety of topics like distributed computing and finance. This began as a personal experiment and has since evolved into an elaborate system working tirelessly in the background to help me not forget things.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>Building a Second Brain</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Building-a-Second-Brain</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Building-a-Second-Brain</guid>
-    <description>Self Link: Building a Second Brain Introduction Personal Knowledge Management (PKM) helps us harness what we know. Second Brain - A digital archive of your knowledge.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>Zettelkasten</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/Zettelkasten</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/Zettelkasten</guid>
+    <description>Overview It originates from a system of writing on index cards. These cards would be grouped into various boxes meant for a specific purpose. Each of these cards would be linked to other cards through an index number.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>Distributed Systems</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Distributed-Systems</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Distributed-Systems</guid>
-    <description>Self Link: Distributed Systems Distributed systems are a set of cooperating computers that are communicating with each other over a network to get some task done ...</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>You And Your Research</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/You-And-Your-Research</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/You-And-Your-Research</guid>
+    <description>Self Link: You And Your Research This is a talk given by Professor Richard W. Hamming, where he preaches 2 things - It is worth trying to accomplish the goals you set for yourself.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>Externalize Your Thoughts</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Externalize-Your-Thoughts</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Externalize-Your-Thoughts</guid>
-    <description>Self Link: Externalize Your Thoughts While reading Chapter 4 of Building a Second Brain, I came across the familiar concept of externalizing thoughts.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>When to use Machine Learning?</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/When-to-use-Machine-Learning</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/When-to-use-Machine-Learning</guid>
+    <description> Machine learning is an approach to learn complex patterns from existing data and use these patterns to make predictions on unseen data. Systems should have the capacity to learn.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>Programming in Rust</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Programming-in-Rust</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Programming-in-Rust</guid>
-    <description>Self Link: Programming in Rust These notes contain the various Rust concepts I picked up when reading the book - The Rust Programming Language by Steve Klabnik and Carol Nichols ...</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>Three Layers of Behavior Change</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/Three-Layers-of-Behavior-Change</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/Three-Layers-of-Behavior-Change</guid>
+    <description>The Three Layers Change in Outcomes - What you get. Change in Process - What you do. Change in Identity - What you believe. Two Types of Change Outcome-Based - Focus on what you want to achieve.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
+  </item><item>
+    <title>RPCs and Threads</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/Threads</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/Threads</guid>
+    <description>Threads enable the following - Concurrency Multicore Parallelism Convenience (periodic background tasks) RPCs and Threads We generally have an RPC service that listens for incoming ...</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
+  </item><item>
+    <title>Thinking Traps</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/Thinking-Traps</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/Thinking-Traps</guid>
+    <description> What we think about impacts our emotions. Hence, when emotional, our thoughts can be inaccurate. Thinking traps are false or inaccurate thoughts that we think are true, that make us upset.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
     <title>The Three Fund Portfolio</title>
     <link>https://https:/arunravi728.github.io/Papyrus/The-Three-Fund-Portfolio</link>
     <guid>https://https:/arunravi728.github.io/Papyrus/The-Three-Fund-Portfolio</guid>
-    <description>Self Link: The Three-Fund Portfolio Source: The Three Fund Portfolio Note This is specific to the US investor. The three-fund portfolio is popular amongst Bogleheads who are interested in a simple lazy investment strategy.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <description> Note This is specific to the US investor. The three-fund portfolio is popular amongst Bogleheads who are interested in a simple, lazy investment strategy.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>C++ Tips</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/C++-Tips</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/C++-Tips</guid>
-    <description>Self Link: C++ Tips.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>The Psychology of Money</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/The-Psychology-of-Money</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/The-Psychology-of-Money</guid>
+    <description>Morgan Housel’s The Psychology of Money uses real-life anecdotes to describe how people’s financial decisions are influenced by emotion rather than logic ...</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:29 GMT</pubDate>
   </item><item>
-    <title>Cargo</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/Cargo</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/Cargo</guid>
-    <description>Self Link: Cargo Cargo is Rust’s build system and package manager. Cargo handles the following - Building code. Downloading libraries. Build libraries/dependencies.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
-  </item><item>
-    <title>File That Runs The Internet</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/File-That-Runs-The-Internet</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/File-That-Runs-The-Internet</guid>
-    <description>Self Link: File That Runs The Internet References Source: File That Runs The Internet .</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
-  </item><item>
-    <title>How to Take Smart Notes</title>
-    <link>https://https:/arunravi728.github.io/Papyrus/How-to-Take-Smart-Notes</link>
-    <guid>https://https:/arunravi728.github.io/Papyrus/How-to-Take-Smart-Notes</guid>
-    <description>Self Link: How to Take Smart Notes.</description>
-    <pubDate>Sun, 08 Jun 2025 17:05:11 GMT</pubDate>
+    <title>The Little Book of Common Sense Investing</title>
+    <link>https://https:/arunravi728.github.io/Papyrus/The-Little-Book-of-Common-Sense-Investing</link>
+    <guid>https://https:/arunravi728.github.io/Papyrus/The-Little-Book-of-Common-Sense-Investing</guid>
+    <description> Successful investing is ALL about COMMON SENSE. A winning strategy is to own all of the nation’s businesses at a meager cost. This will capture the entire market’s dividends and growth.</description>
+    <pubDate>Wed, 11 Jun 2025 02:48:28 GMT</pubDate>
   </item>
     </channel>
   </rss>

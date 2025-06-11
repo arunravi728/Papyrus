@@ -3,8 +3,6 @@ title: Computer Science
 share: true
 ---
 
-Self Link: [Computer Science](Computer%20Science.md)
-
 1. [Distributed Systems](./Distributed%20Systems.md)
 1. [ML Systems](./ML%20Systems.md)
 1. [Programming in C++](./Programming%20in%20C++.md)
