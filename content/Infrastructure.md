@@ -8,7 +8,7 @@ Distributed systems are a means to provide infrastructure for scalable and relia
 1. Storage
 1. Networking (What I work on at Google)
 1. Compute
-1. [ML Systems](ML%20Systems.md) (more recent, same as compute maybe?)
+1. [ML Systems](./ML%20Systems.md) (more recent, same as compute maybe?)
 
 A really well-designed distributed system would be able to hide the fact that the underlying infrastructure is distributed -> Note this is very hard to achieve.
 

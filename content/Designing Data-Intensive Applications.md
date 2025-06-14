@@ -26,3 +26,6 @@ Recently, there has been a proliferation of NoSQL databases (databases that don'
 1. Improve write throughputs.
 1. Open source data solutions.
 1. Provide a more dynamic and expressive data representation.
+1. Improved one-to-many data representation.
+
+Refer to [Relational vs NoSQL Databases](./Relational%20vs%20NoSQL%20Databases.md) for information on how these two paradigms of database management systems differ from one another.

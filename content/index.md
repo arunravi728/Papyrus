@@ -7,7 +7,7 @@ share: true
  > 
  > Welcome to Papyrus!
  > 
- > Papyrus is my collection of notes on a variety of topics like distributed computing and finance. This began as a personal experiment and has since evolved into an elaborate system working tirelessly in the background to help me not forget things.
+ > Papyrus is my collection of notes on various topics, including distributed computing and finance. This began as a personal experiment and has since evolved into an elaborate system that works tirelessly in the background to help me remember things.
 
 ### About Me
 

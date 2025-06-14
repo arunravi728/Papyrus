@@ -60,7 +60,7 @@ Reduce(String word, Iterator counts):
 * **STEP 4**: There will be one output file per reduce task.
   * Typically, these files are then sent through another MapReduce operation.
 
-![Map Reduce Implementation.png](./2.%20Areas/Technology/Distributed%20Systems/Map%20Reduce%20Implementation.png)
+![Map Reduce Implementation.png](./2.%20Areas/Computer%20Science/Map%20Reduce%20Implementation.png)
 
 ### References
 
