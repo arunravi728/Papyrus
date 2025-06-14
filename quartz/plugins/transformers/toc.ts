@@ -12,7 +12,7 @@ export interface Options {
 }
 
 const defaultOptions: Options = {
-  maxDepth: 3,
+  maxDepth: 4,
   minEntries: 1,
   showByDefault: true,
   collapseByDefault: false,
@@ -25,7 +25,9 @@ interface TocEntry {
 }
 
 const slugAnchor = new Slugger()
-export const TableOfContents: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
+export const TableOfContents: QuartzTransformerPlugin<Partial<Options> | undefined> = (
+  userOpts,
+) => {
   const opts = { ...defaultOptions, ...userOpts }
   return {
     name: "TableOfContents",
