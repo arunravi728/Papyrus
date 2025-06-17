@@ -20,11 +20,13 @@ The earliest databases were called hierarchical models, which represented data a
 
 * Data is organized into tables and rows.
 * No complicated nested structures to store data.
-* Query optimizer eliminated programmers making access path decisions.
+* The query optimizer eliminated programmers from making access path decisions.
 * Data in different tables is linked via the foreign key.
 
-Given the simplicity and ease of modifying relational databases, the network model was slowly phased out. However, there exists a fundamental drawback in the data representation used by relational models called **Object-Relation mismatch**. This referred to the incoherence between how data was represented in a database (as relations) compared to how programming languages operated on data (as objects). This required a translation layer between the two, impacting database performance.
+Given the simplicity and ease of modifying relational databases, the network model was slowly phased out. However, a fundamental drawback exists in the data representation used by relational models, known as the **Object-Relation mismatch**. This referred to the incoherence between how data was represented in a database (as relations) compared to how programming languages operated on data (as objects). This required a translation layer between the two, impacting database performance.
 
 Modern NoSQL databases - also called Document databases - revert to storing nested records for improved coherency between data representation and data processing, which leads to improved performance.
 
-### Document Model
+Document databases are called schemaless, as the implicit schema is not enforced by the database. The schema is only interpreted when the data is read (schema-on-read), as opposed to traditional databases, which enforce the schema on writes (schema-on-write).
+
+A major disadvantage of Document databases is the inherent inability to represent many-to-many relationships. This is done in relational databases through the use of joins between different tables.
