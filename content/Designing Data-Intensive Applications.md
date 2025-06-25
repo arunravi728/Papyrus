@@ -4,7 +4,7 @@ title: Designing Data-Intensive Applications
 author: Martin Kleppmann
 status: Reading
 category: Non-Fiction
-genre: Technology
+genre: Computer Science
 share: true
 ---
 
