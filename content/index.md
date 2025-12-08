@@ -7,7 +7,7 @@ share: true
  > 
  > Welcome to Papyrus!
  > 
- > Papyrus is a collection of my personal knowledge base, covering a variety of topics I'm exploring. What started as a simple experiment has grown into a system I use to organize my learning and reference materials.
+ > Papyrus is my personal knowledge base, covering a variety of topics I'm exploring. What started as a simple experiment has grown into a system I use to organize my learning and reference materials.
 
 ### About Me
 
