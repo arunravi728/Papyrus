@@ -24,7 +24,7 @@ My rough TBR for the next year or two is  -
 
 Apart from sci-fi and fantasy, I also read a plethora of non-fiction books, some of my recommendations are - 
 
-* [Building a Second Brain](Building%20a%20Second%20Brain.md) by Tiago Forte
+* [Building a Second Brain](./Building%20a%20Second%20Brain.md) by Tiago Forte
 * Sapiens by Yuval Noah Harari
 * Steve Jobs by Walter Isaacson
 * Debt: The First 5000 Years by David Graeber

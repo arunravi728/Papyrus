@@ -7,15 +7,11 @@ share: true
  > 
  > Welcome to Papyrus!
  > 
- > Papyrus is my collection of notes on various topics, including distributed computing and finance. This began as a personal experiment and has since evolved into an elaborate system that works tirelessly in the background to help me remember things.
+ > Papyrus is a collection of my personal knowledge base, covering a variety of topics I'm exploring. What started as a simple experiment has grown into a system I use to organize my learning and reference materials.
 
 ### About Me
 
-Hi there! I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons that keep our AI infrastructure running.  With over three years of experience building distributed systems and cloud infrastructure, I have grown accustomed to troubleshooting packet drops, race conditions, and segfaults. Before Google, I earned my Master’s in Computer Science from the University of Wisconsin–Madison and worked at Samsung Research in India.
-
-Outside of work, you’ll find me deep in a sci-fi or fantasy epic (my [Book Recommendations](./Book%20Recommendations.md)), cycling when the California sun cooperates, or losing track of time in an open-world RPG. I also possess the rare and questionable talent of sleeping 17 hours straight.
-
-Thanks for stopping by - feel free to explore and connect!
+Hi there! I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons for Google's planet-scale AI infrastructure.  With close to four years of experience building distributed systems and cloud infrastructure, I have grown accustomed to troubleshooting packet drops, race conditions, and segfaults. Before Google, I earned my Master’s in Computer Science from the University of Wisconsin–Madison and worked at Samsung Research in India.
 
 ### Map Of Content
 
