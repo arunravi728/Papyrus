@@ -7,11 +7,9 @@ share: true
  > 
  > Welcome to Papyrus!
  > 
- > Papyrus is my personal knowledge base, encompassing a range of topics I'm currently exploring. What started as a simple experiment has grown into a system I use to organize my learning.
-
-### About Me
-
-Hi there! I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons for Google's planet-scale AI infrastructure.  With four years of experience building distributed systems and cloud infrastructure, I have become accustomed to troubleshooting packet drops, race conditions, and segfaults. Before Google, I earned my Master’s in Computer Science from the University of Wisconsin–Madison and worked at Samsung Research in India.
+ > I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons for Google's planet-scale AI infrastructure. Papyrus is my personal knowledge base, encompassing a range of topics I'm currently exploring.
+ > 
+ > A big shoutout to Jacky Zhao and the Quartz team for creating this amazing product that I use to publish my Obsidian vault online.
 
 ### Map Of Content
 
