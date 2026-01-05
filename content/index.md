@@ -7,9 +7,7 @@ share: true
  > 
  > Welcome to Papyrus!
  > 
- > I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons for Google's planet-scale AI infrastructure. Papyrus is my personal knowledge base, encompassing a range of topics I'm currently exploring.
- > 
- > A big shoutout to Jacky Zhao and the Quartz team for creating this amazing product that I use to publish my Obsidian vault online.
+ > I’m Arun, a Software Engineer at Google in Sunnyvale, where I design low-level networking daemons for Google's planet-scale AI infrastructure. Papyrus is my personal knowledge base, encompassing a range of topics I'm currently exploring. A big shoutout to Jacky Zhao and the Quartz team for creating this amazing product that I use to publish my Obsidian vault online.
 
 ### Map Of Content
 
